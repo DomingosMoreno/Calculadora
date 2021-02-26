@@ -1,0 +1,14 @@
+*******************************************************************************************
+Este script batch foi desenvolvido por pessoas apaixonadas por programação.               *
+                                     						          *									  *
+Foi utilizado programas .EXE para criar uma calculadora					  *
+mais potente.										  *
+O código fonte das executáveis se encontra no directório	      			  *
+código para qualquer um ler e melhorar :).                                                *	
+USUÁRIOS										  *
+-> Domingos                                                   			          *
+-> Jailson										  *
+-> Simão						      			          *
+SENHA										          *
+->calculadoras					    					  *
+*******************************************************************************************

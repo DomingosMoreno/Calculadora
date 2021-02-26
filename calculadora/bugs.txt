@@ -1,0 +1,4 @@
+-> bugs concertados
+* não mostra resultados das operações anteriores
+* não mostra mensagem de erro com relação somente
+ao multiplicar
